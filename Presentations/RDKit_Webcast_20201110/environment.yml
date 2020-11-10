@@ -1,0 +1,12 @@
+name: py38_RDKit2020_09
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - rdkit=2020.09
+  - jupyter
+  - py3dmol
+  - networkx
+  - ipywidgets
+  - ipycytoscape
